@@ -1,0 +1,3 @@
+include ':appussdmanager'
+include ':app'
+rootProject.name = "Lib"
